@@ -1,3 +1,3 @@
 # Table of contents
 
-* [MDE-APi](README.md)
+* [Horizon-Api](README.md)
